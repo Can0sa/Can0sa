@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 CO
+### 🚀 COMPETENCIAS
 
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
@@ -24,7 +24,7 @@
 ### 📈 STATS
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Canosa&show_icons=true&hide_border=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&hide_border=true&theme=radical" alt="Estadísticas de GitHub">
 </p>
 
 - [![GitHub Followers](https://img.shields.io/github/followers/tuusuario?label=Follow&style=social)](https://github.com/tuusuario)
