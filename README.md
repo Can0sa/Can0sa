@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 WORKING WITH
+### 🚀 CO
 
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
@@ -17,7 +17,7 @@
 ### 🌱 
 
 - Técnico en Sistemas Microinformáticos y Redes
-- Técnico Superior en Desarrollo de Aplicaciones Web [⚙️ 50%. . .]
+- Técnico Superior en Desarrollo de Aplicaciones Web [⚙️. . .]
 
 ---
 
